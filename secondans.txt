@@ -1,0 +1,17 @@
+Mobile computing
+
+1)Mobile computing is human–computer interaction by which a computer is expected to be transported during normal usage. Mobile computing involves mobile communication, mobile hardware, and mobile software.
+
+2) Communication issues include ad hoc and infrastructure networks as well as communication properties, protocols, data formats and concrete technologies. Hardware includes mobile devices or device components. Mobile software deals with the characteristics and requirements of mobile applications.
+
+3) Mobile computing takes a physical device with the user. This could be a laptop, mobile phones or some device which enables you to telework(working where ever the user goes)
+
+
+Cloud Computing
+
+1)Cloud computing is an expression used to describe a variety of computing concepts that involve a large number of computers connected through a real-time communication network such as the Internet. Cloud computing is a synonym for distributed computing over a network, and means the ability to run a program or application on many connected computers at the same time.
+
+2) It refers to network-based services, which appear to be provided by real server hardware, and are in fact served up by virtual hardware, simulated by software running on one or more real machines. Such virtual servers do not physically exist and can therefore be moved around and scaled up (or down) on the fly without affecting the end user - arguably, rather like a cloud.
+The popularity of the term can be attributed to its use in marketing to sell hosted services in the sense of application service provisioning that run client server software on a remote location.
+
+3)Cloud computing allows the users to store the files and folders in a "cloud" area on the internet, allowing them to access all the files and folders where ever the user is in the world-but the user needs a physical device with internet access to use it.
